@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIToolKitStuff/SimpleExampleStyleSheet.uss?fileID=7433441132597879392&amp;guid=c0cf2165abcd40a4f9080ea2e3ac4584&amp;type=3#SimpleExampleStyleSheet" />
+    <engine:Label text="Super Cole Dev Tool" name="FirstLabel" class="myLabel" />
+    <engine:Button text="Press Me :)" name="FirstButton" />
+</engine:UXML>
